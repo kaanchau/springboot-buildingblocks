@@ -3,8 +3,6 @@ package com.stacksimplify.restservices.hello;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.stacksimplify.restservices.UserDetails;
-
 //Controller
 @RestController
 public class HelloWorldController {
